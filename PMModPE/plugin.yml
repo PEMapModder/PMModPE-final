@@ -1,0 +1,6 @@
+name: PMModPE
+version: alpha 0
+api: [1.0.0]
+main: pemapmodder\pmmodpe\Main
+author: PEMapModder
+load: POSTWORLD
