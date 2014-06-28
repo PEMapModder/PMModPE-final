@@ -3,7 +3,9 @@
 namespace pemapmodder\pmmodpe\js;
 
 class JavaScript{
-	public function __construct($src){
+	public static function parse($stream){
+	}
+	public function __construct($compiled){
 		
 	}
 }
